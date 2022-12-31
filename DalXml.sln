@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DalXml", "DalXml\DalXml.csproj", "{67927C09-6070-495D-BA1D-E93AB405DA12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xml", "xml", "{92B0F0AB-FE35-4F4F-8C79-509DFED664A5}"
+	ProjectSection(SolutionItems) = preProject
+		xml\lecturers.xml = xml\lecturers.xml
+		xml\students.xml = xml\students.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67927C09-6070-495D-BA1D-E93AB405DA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67927C09-6070-495D-BA1D-E93AB405DA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67927C09-6070-495D-BA1D-E93AB405DA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67927C09-6070-495D-BA1D-E93AB405DA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669FE230-4E8C-4994-A2EE-D94A72CF36DC}
+	EndGlobalSection
+EndGlobal
